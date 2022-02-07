@@ -1,7 +1,9 @@
 name: custom_alert_box
-description: A new Flutter package project.
+description: This package is used to be able to show a custom alert box easly.
 version: 0.0.1
-homepage:
+author: Mohammad Jawed Ahmad<fdeveloper786@gmail.com>
+homepage: https://github.com/fdeveloper786/Package_Custom_Alert_Box.git
+
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
